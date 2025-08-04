@@ -1,15 +1,5 @@
-Daily Internship Tasks:
+This Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
 
-Attend team meetings and take notes.
+Functional OverviewThis Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
 
-Help with small projects or tasks given by my supervisor.
-
-Do research or collect information when needed.
-
-Update documents, spreadsheets, or reports.
-
-Learn new tools or software used by the team.
-
-Ask questions and get feedback to improve my work.
-
-Support the team with any extra help they need.
+<img width="905" height="489" alt="Screenshot 2025-08-04 143815" src="https://github.com/user-attachments/assets/9f0f0bdc-b97e-40b6-8c48-cd1b60e0188e" />
